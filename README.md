@@ -74,9 +74,6 @@
 </div>
 
 <div align='center'>
-  <a href='https://visitcount.itsvg.in' >
-    <img src='https://visitcount.itsvg.in/api?id=madsrc&icon=5&color=6' height='40' />
-  </a>
   <a href='https://github.com/madsrc' >
     <img src='https://img.shields.io/github/followers/madsrc.svg?style=flat&logo=castro&label=Follow' height='40' />
   </a>
